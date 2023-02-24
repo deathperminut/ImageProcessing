@@ -1,0 +1,14 @@
+# Archivos y carpetas específicos de entornos virtuales
+venv/
+env/
+.pipenv/
+.venv/
+conda/
+pip-selfcheck.json
+
+# Dependencias instaladas en el entorno virtual
+# Ejemplos para pip y pipenv
+pip-lock.txt
+Pipfile.lock
+
+# Cualquier otro archivo o carpeta generados por el gestor de paquetes del entorno virtual
